@@ -1,5 +1,5 @@
 # IMC-Calculator
-Projeto do Curso Explorer 07 - Calculadora de de IMC 
+Projeto do Curso Explorer 07 - Calculadora de IMC 
 
 
 <h2>Tecnologias e conceitos utilizados </h2>
