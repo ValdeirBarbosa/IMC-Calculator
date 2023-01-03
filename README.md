@@ -1,6 +1,8 @@
 # IMC-Calculator
 Projeto do Curso Explorer 07 - Calculadora de IMC 
 
+[Veja clicando aqui](https://valdeirbarbosa.github.io/IMC-Calculator/)
+
 
 <h2>Tecnologias e conceitos utilizados </h2>
 
