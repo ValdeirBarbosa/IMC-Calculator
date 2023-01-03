@@ -13,6 +13,7 @@ Projeto do Curso Explorer 07 - Calculadora de de IMC
 <li>Abordado o conceito mobile fisrt</li>
 <li>Aplicado media queries e animações</li>
 <li>Alteraçõs de estilo css com Javascript pelo DOM </li>
+<li>Validação de campos</li>
 </ol>
 
 ![image](https://user-images.githubusercontent.com/6127742/210286275-f8bd47e7-5564-4bc0-8374-7d9f64aad4e8.png)
